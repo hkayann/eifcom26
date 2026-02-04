@@ -1,0 +1,22 @@
+baseURL = 'https://eifcom26.github.io/'
+languageCode = 'en-us'
+title = 'EIFCOM 2026'
+theme = 'ananke'
+
+[params]
+  description = 'International Workshop on Mobile Systems with Efficient Foundation Models'
+  background_color_class = "bg-navy"
+  recent_posts_number = 0
+  featured_image_class = "bg-center"
+  cover_dimming_class = "bg-black-40"
+
+  [params.ananke]
+    show_recent_posts = false
+
+  [params.ananke.home]
+    content_alignment = 'left'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

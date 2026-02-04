@@ -12,6 +12,25 @@
         <h3 class="f4 f3-l fw3 mt4 dib bb bw1 b--white-70 pb2">
           Co-located with ACM MobiSys 2026
         </h3>
+        <div id="countdown" class="f4 f3-l fw6 mt4 white-90 tracked mb4"></div>
+        <a href="https://eifcom26.hotcrp.com/" class="f5 f4-l link dim br2 ph4 pv3 mb2 dib white bg-navy shadow-5 fw6">SUBMIT YOUR PAPER</a>
+        <script>
+          const targetDate = new Date("April 3, 2026 23:59:59").getTime();
+          const countdownElement = document.getElementById("countdown");
+          const timer = setInterval(function() {
+            const now = new Date().getTime();
+            const distance = targetDate - now;
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            countdownElement.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s until Submission`;
+            if (distance < 0) {
+              clearInterval(timer);
+              countdownElement.innerHTML = "SUBMISSION CLOSED";
+            }
+          }, 1000);
+        </script>
       </div>
     </div>
   </header>

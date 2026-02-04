@@ -12,11 +12,16 @@ However, their increasing complexity poses significant challenges in terms of se
 
 The **EIFCom workshop** aims to provide a forum for researchers, developers, and industry partners to share their experiences, present innovative solutions, and discuss the latest advancements in efficient foundation models for mobile applications.
 
+<div class="flex justify-center flex-wrap mt4 mb5 pv3 bt bb b--black-10">
+  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#cfp">Call for Papers</a>
+  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#dates">Important Dates</a>
+  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#program">Program</a>
+  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#organization">Organization</a>
+</div>
+
 ---
 
-## Call for Papers
-
-The EIFCom workshop aims to provide a forum for researchers, developers, and industry partners to share their experiences, present innovative solutions, and discuss the latest advancements in efficient foundation models for mobile applications.
+<h2 id="cfp">Call for Papers</h2>
 
 ### Topics of Interest
 
@@ -28,45 +33,118 @@ We solicit papers that present preliminary research in broad areas of mobile fou
 - **Privacy & Security:** Federated learning, on-device privacy-preserving architectures.
 - **Applications:** Innovative use cases in task automation, health monitoring, accessibility, and AR/VR.
 
-### Submission Guidelines
+### Submission Instructions
 
-- **Full Papers:** Up to 6 pages including references.
-- **Position Papers:** Up to 4 pages including references.
-- **Format:** Submissions must follow the ACM guidelines (double-column, 10pt font).
+<div class="pa4 br3 bg-washed-blue mb4 shadow-1">
+  <p class="f5 lh-copy">
+    We invite original research papers that have not been previously published and are not currently under review for publication. All submissions must be provided in PDF format, and follow the <a href="https://www.sigmobile.org/mobisys/2026/call_for_papers/" class="link navy dim underline">formatting guidelines</a> of MobiSys 2026.
+  </p>
+  
+  <ul class="f5 lh-copy list pa0">
+    <li class="pv2"><strong>Full papers:</strong> No longer than 6 pages including references.</li>
+    <li class="pv2"><strong>Position papers:</strong> Limited to 4 pages including references.</li>
+    <li class="pv2"><strong>Review Process:</strong> EIFCom follows a single-blinded review process.</li>
+  </ul>
 
-Submission link: [TBA]
+  <p class="f5 lh-copy mt3 pt3 bt b--black-10">
+    All submissions must use a <strong>10pt font</strong> (or larger) and be correctly formatted for printing on letter-sized (8.5" by 11") paper. Paper text blocks must follow ACM guidelines: double-column, with each column 9.25" by 3.33", 0.33" space between columns, and single-spaced. The abstract should contain less than 250 words.
+  </p>
+</div>
+
+### Latex Template
+
+Submissions can use [this LaTex template](https://www.acm.org/publications/proceedings-template) which is known to comply with the formatting requirements. Authors remain responsible for checking that their resulting PDF meets our formatting specifications.
+
+### Submission Site
+
+The papers can be submitted at: [https://eifcom26.hotcrp.com/](https://eifcom26.hotcrp.com/)
+
+If you have any questions, please reach out to Hakan Kayan via [kayanh@cardiff.ac.uk](mailto:kayanh@cardiff.ac.uk).
 
 ---
 
-## Important Dates
+<h2 id="program">Workshop Program</h2>
+
+*The detailed program will be announced after the notification of acceptance.*
+
+<div class="pa4 br3 bg-near-white mb4">
+  <table class="w-100 collapse">
+    <tbody class="lh-copy">
+      <tr class="bb b--black-10">
+        <td class="pv2 w-20 fw6">09:00 - 09:15</td>
+        <td class="pv2">Opening Remarks</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">09:15 - 10:15</td>
+        <td class="pv2">Keynote Session</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">10:15 - 10:45</td>
+        <td class="pv2">Coffee Break</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">10:45 - 12:00</td>
+        <td class="pv2">Technical Session I</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">12:00 - 13:30</td>
+        <td class="pv2">Lunch Break</td>
+      </tr>
+      <tr>
+        <td class="pv2 fw6">13:30 - TBA</td>
+        <td class="pv2">Afternoon Sessions & Closing</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<h2 id="dates">Important Dates</h2>
 
 All deadlines are 23:59 AoE (Anywhere on Earth).
 
-- **Paper Submission:** March 15, 2026
-- **Acceptance Notification:** April 20, 2026
-- **Camera-Ready Submission:** May 5, 2026
-- **Workshop Date:** June 15, 2026 (Co-located with MobiSys 2026)
+- **Paper Submission:** April 3, 2026
+- **Acceptance Notification:** April 17, 2026
+- **Camera-Ready Submission:** April 24, 2026
+- **Workshop Date:** TBA (Co-located with MobiSys 2026)
 
 ---
 
-## Organization
+<h2 id="organization">Organization</h2>
 
 ### Workshop Chairs
-- **Chair Name 1**, University/Affiliation
-- **Chair Name 2**, University/Affiliation
+
+<div class="flex flex-wrap justify-center mw9 center">
+  <div class="pa3 pa4-ns w-50 w-25-l tc">
+    <img src="/images/chairs/hakan_kayan.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Hakan Kayan">
+    <h4 class="f5 fw6 mb0">Hakan Kayan</h4>
+    <p class="f6 fw4 mt1">Cardiff University, UK</p>
+  </div>
+  <div class="pa3 pa4-ns w-50 w-25-l tc">
+    <img src="/images/chairs/nhat_pham.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Nhat Pham">
+    <h4 class="f5 fw6 mb0">Nhat Pham</h4>
+    <p class="f6 fw4 mt1">Cardiff University, UK</p>
+  </div>
+  <div class="pa3 pa4-ns w-50 w-25-l tc">
+    <img src="/images/chairs/hong_jia.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Hong Jia">
+    <h4 class="f5 fw6 mb0">Hong Jia</h4>
+    <p class="f6 fw4 mt1">University of Auckland, NZ</p>
+  </div>
+  <div class="pa3 pa4-ns w-50 w-25-l tc">
+    <img src="/images/chairs/taesik_gong.jpeg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Taesik Gong">
+    <h4 class="f5 fw6 mb0">Taesik Gong</h4>
+    <p class="f6 fw4 mt1">KAIST, South Korea</p>
+  </div>
+</div>
 
 ### Technical Program Committee
-- **TPC Member 1**, Affiliation
-- **TPC Member 2**, Affiliation
-- **TPC Member 3**, Affiliation
-- *(More to be announced)*
+- TBA
 
 ### Steering Committee
-- **Cecilia Mascolo**, University of Cambridge, UK
-- **Michael Beigl**, KIT, Germany
-- **Kai Kunze**, Keio University, Japan
+- TBA
 
 ---
 ### Co-located with [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)
 **Location:** TBA  
-**Date:** June 15, 2026
+**Date:** TBA

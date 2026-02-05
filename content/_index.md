@@ -113,7 +113,27 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 
 <h2 id="organization">Organization</h2>
 
-### Workshop Chairs
+### General Chairs
+
+<div class="flex flex-wrap justify-center mw9 center">
+  <div class="pa3 pa4-ns w-50 w-33-l tc">
+    <img src="/images/chairs/nhat_pham.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Nhat Pham">
+    <h4 class="f5 fw6 mb0">Nhat Pham</h4>
+    <p class="f6 fw4 mt1">Cardiff University, UK</p>
+  </div>
+  <div class="pa3 pa4-ns w-50 w-33-l tc">
+    <img src="/images/chairs/hong_jia.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Hong Jia">
+    <h4 class="f5 fw6 mb0">Hong Jia</h4>
+    <p class="f6 fw4 mt1">University of Auckland, NZ</p>
+  </div>
+  <div class="pa3 pa4-ns w-50 w-33-l tc">
+    <img src="/images/chairs/taesik_gong.jpeg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Taesik Gong">
+    <h4 class="f5 fw6 mb0">Taesik Gong</h4>
+    <p class="f6 fw4 mt1">KAIST, South Korea</p>
+  </div>
+</div>
+
+### Web Chair
 
 <div class="flex flex-wrap justify-center mw9 center">
   <div class="pa3 pa4-ns w-50 w-25-l tc">
@@ -121,22 +141,13 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <h4 class="f5 fw6 mb0">Hakan Kayan</h4>
     <p class="f6 fw4 mt1">Cardiff University, UK</p>
   </div>
-  <div class="pa3 pa4-ns w-50 w-25-l tc">
-    <img src="/images/chairs/nhat_pham.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Nhat Pham">
-    <h4 class="f5 fw6 mb0">Nhat Pham</h4>
-    <p class="f6 fw4 mt1">Cardiff University, UK</p>
-  </div>
-  <div class="pa3 pa4-ns w-50 w-25-l tc">
-    <img src="/images/chairs/hong_jia.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Hong Jia">
-    <h4 class="f5 fw6 mb0">Hong Jia</h4>
-    <p class="f6 fw4 mt1">University of Auckland, NZ</p>
-  </div>
-  <div class="pa3 pa4-ns w-50 w-25-l tc">
-    <img src="/images/chairs/taesik_gong.jpeg" class="br-100 h4 w4 dib ba b--black-05 pa2 h-auto" alt="Taesik Gong">
-    <h4 class="f5 fw6 mb0">Taesik Gong</h4>
-    <p class="f6 fw4 mt1">KAIST, South Korea</p>
-  </div>
 </div>
+
+### Social Chair
+- TBA
+
+### Publication Chair
+- TBA
 
 ### Technical Program Committee
 - TBA

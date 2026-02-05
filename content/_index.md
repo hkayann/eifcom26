@@ -116,21 +116,21 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 ### General Chairs
 
 <div class="flex flex-wrap mw9 center">
-  <div class="pa3 w-100 w-50-l flex items-center">
+  <div class="pa3 w-100 w-33-l flex items-center">
     <img src="/images/chairs/nhat_pham.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Nhat Pham">
     <div>
       <h4 class="f5 fw6 mv0">Nhat Pham</h4>
       <p class="f6 fw4 mt1 mb0">Cardiff University, UK</p>
     </div>
   </div>
-  <div class="pa3 w-100 w-50-l flex items-center">
+  <div class="pa3 w-100 w-33-l flex items-center">
     <img src="/images/chairs/hong_jia.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Hong Jia">
     <div>
       <h4 class="f5 fw6 mv0">Hong Jia</h4>
       <p class="f6 fw4 mt1 mb0">University of Auckland, NZ</p>
     </div>
   </div>
-  <div class="pa3 w-100 w-50-l flex items-center">
+  <div class="pa3 w-100 w-33-l flex items-center">
     <img src="/images/chairs/taesik_gong.jpeg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Taesik Gong">
     <div>
       <h4 class="f5 fw6 mv0">Taesik Gong</h4>

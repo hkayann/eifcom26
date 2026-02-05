@@ -59,7 +59,7 @@ Submissions can use [this LaTex template](https://www.acm.org/publications/proce
 
 The papers can be submitted at: [https://eifcom26.hotcrp.com/](https://eifcom26.hotcrp.com/)
 
-If you have any questions, please reach out to Hakan Kayan via [kayanh@cardiff.ac.uk](mailto:kayanh@cardiff.ac.uk).
+If you have any questions, please reach out to Nhat (Nick) Pham via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk).
 
 ---
 
@@ -119,7 +119,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
   <div class="pa3 w-100 w-33-l flex items-center">
     <img src="/images/chairs/nhat_pham.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Nhat Pham">
     <div>
-      <h4 class="f5 fw6 mv0">Nhat Pham</h4>
+      <h4 class="f5 fw6 mv0">Nhat (Nick) Pham</h4>
       <p class="f6 fw4 mt1 mb0">Cardiff University, UK</p>
     </div>
   </div>
@@ -134,7 +134,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <img src="/images/chairs/taesik_gong.jpeg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Taesik Gong">
     <div>
       <h4 class="f5 fw6 mv0">Taesik Gong</h4>
-      <p class="f6 fw4 mt1 mb0">KAIST, South Korea</p>
+      <p class="f6 fw4 mt1 mb0">UNIST, South Korea</p>
     </div>
   </div>
 </div>

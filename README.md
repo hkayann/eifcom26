@@ -22,4 +22,4 @@ The site will be available at http://localhost:1313/
 ## Deployment
 
 The site is automatically deployed to Netlify when changes are pushed to the main branch.
-URL: https://eifcom26.netlify.app/
+URL: https://eifcom2026.netlify.app/

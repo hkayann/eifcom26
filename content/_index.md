@@ -179,13 +179,9 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <img src="/images/sponsors/cardiff-university-logo.png" class="w-100 db" alt="Cardiff University">
   </div>
   <div class="pa4 w-50 w-25-ns">
-    <div class="ba b--black-10 bg-near-white pv4 ph2 tc">
-      <span class="f6 fw6 ttu tracked">Uni of Auckland</span>
-    </div>
+    <img src="/images/sponsors/sydney_logo.jpg" class="w-100 db" alt="University of Sydney">
   </div>
   <div class="pa4 w-50 w-25-ns">
-    <div class="ba b--black-10 bg-near-white pv4 ph2 tc">
-      <span class="f6 fw6 ttu tracked">UNIST</span>
-    </div>
+    <img src="/images/sponsors/university_of_melbourne_logo.jpg" class="w-100 db" alt="University of Melbourne">
   </div>
 </div>

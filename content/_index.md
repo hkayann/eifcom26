@@ -6,23 +6,22 @@ description: "International Workshop on Mobile Systems with Efficient Foundation
 featured_image: "/images/background.jpg"
 ---
 
+<section class="bg-white pv5">
+<div class="mw8 center ph3">
+
 Foundation models have recently emerged as a powerful tool for various applications. However, their impact on mobile applications has been less investigated. Recent research showcases their ability to achieve unprecedented capabilities in areas such as task automation, hand sign detection, and visual question answering. 
 
 However, their increasing complexity poses significant challenges in terms of sensor modality, diverse sensor environments, model efficiency, interactivity, and user experience. 
 
 The **EIFCom workshop** aims to provide a forum for researchers, developers, and industry partners to share their experiences, present innovative solutions, and discuss the latest advancements in efficient foundation models for mobile applications.
 
-<div class="flex justify-center flex-wrap mt4 mb5 pv3 bt bb b--black-10">
-  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#cfp">Call for Papers</a>
-  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#dates">Important Dates</a>
-  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#program">Program</a>
-  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#organization">Organization</a>
-  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#sponsors">Sponsors</a>
 </div>
+</section>
 
----
+<section id="cfp" class="bg-near-white pv5">
+<div class="mw8 center ph3">
 
-<h2 id="cfp">Call for Papers</h2>
+## Call for Papers
 
 ### Topics of Interest
 
@@ -36,7 +35,7 @@ We solicit papers that present preliminary research in broad areas of mobile fou
 
 ### Submission Instructions
 
-<div class="pa4 br3 bg-washed-blue mb4 shadow-1">
+<div class="pa4 br3 bg-white mb4 shadow-1">
   <p class="f5 lh-copy">
     We invite original research papers that have not been previously published and are not currently under review for publication. All submissions must be provided in PDF format, and follow the <a href="https://www.sigmobile.org/mobisys/2026/call_for_papers/" class="link navy dim underline">formatting guidelines</a> of MobiSys 2026.
   </p>
@@ -62,9 +61,13 @@ The papers can be submitted at: [https://eifcom26.hotcrp.com/](https://eifcom26.
 
 If you have any questions, please reach out to Nhat (Nick) Pham via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk).
 
----
+</div>
+</section>
 
-<h2 id="program">Workshop Program</h2>
+<section id="program" class="bg-white pv5">
+<div class="mw8 center ph3">
+
+## Workshop Program
 
 *The detailed program will be announced after the notification of acceptance.*
 
@@ -99,9 +102,13 @@ If you have any questions, please reach out to Nhat (Nick) Pham via [phamn@cardi
   </table>
 </div>
 
----
+</div>
+</section>
 
-<h2 id="dates">Important Dates</h2>
+<section id="dates" class="bg-near-white pv5">
+<div class="mw8 center ph3">
+
+## Important Dates
 
 All deadlines are 23:59 AoE (Anywhere on Earth).
 
@@ -110,9 +117,13 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 - **Camera-Ready Submission:** April 24, 2026
 - **Workshop Date:** TBA (Co-located with MobiSys 2026)
 
----
+</div>
+</section>
 
-<h2 id="organization">Organization</h2>
+<section id="organization" class="bg-white pv5">
+<div class="mw8 center ph3">
+
+## Organization
 
 ### General Chairs
 
@@ -164,12 +175,17 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 ### Steering Committee
 - TBA
 
----
+</div>
+</section>
+
+<section id="sponsors" class="bg-near-white pv5">
+<div class="mw8 center ph3">
+
 ### Co-located with [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)
 **Location:** TBA  
 **Date:** TBA
 
-<h2 id="sponsors" class="mt5">Sponsors</h2>
+<h2 class="mt5">Sponsors</h2>
 
 <div class="flex flex-wrap items-center justify-center mw8 center pv4">
   <div class="pa4 w-50 w-25-ns">
@@ -185,3 +201,6 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <img src="/images/sponsors/university_of_melbourne_logo.jpg" class="w-100 db" alt="University of Melbourne">
   </div>
 </div>
+
+</div>
+</section>

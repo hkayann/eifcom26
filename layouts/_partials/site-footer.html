@@ -1,0 +1,8 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between items-center mw8 center">
+    <div class="f6 fw4 white-70">
+      &copy; {{ now.Format "2006" }} EIFCOM - International Workshop on Mobile Systems with Efficient Foundation Models
+    </div>
+    <div>{{ partials.Include "social/follow.html" . }}</div>
+  </div>
+</footer>

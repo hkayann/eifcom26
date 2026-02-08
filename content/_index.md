@@ -165,25 +165,27 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 - TBA
 
 ---
-
-<h2 id="sponsors">Sponsors</h2>
-
-<div class="flex flex-wrap items-center justify-center mw8 center">
-  <div class="pa3 w-50 w-25-ns">
-    <img src="/images/sponsors/acm_logo.png" class="w-100 db" alt="ACM">
-  </div>
-  <div class="pa3 w-50 w-25-ns">
-    <img src="/images/sponsors/cardiff-university-logo.png" class="w-100 db" alt="Cardiff University">
-  </div>
-  <div class="pa3 w-50 w-25-ns">
-    <img src="/images/sponsors/sydney_logo.jpg" class="w-100 db" alt="University of Sydney">
-  </div>
-  <div class="pa3 w-50 w-25-ns">
-    <img src="/images/sponsors/university_of_melbourne_logo.jpg" class="w-100 db" alt="University of Melbourne">
-  </div>
-</div>
-
----
 ### Co-located with [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)
 **Location:** TBA  
 **Date:** TBA
+
+<h2 id="sponsors" class="mt5">Sponsors</h2>
+
+<div class="flex flex-wrap items-center justify-center mw8 center pv4">
+  <div class="pa4 w-50 w-25-ns">
+    <img src="/images/sponsors/acm_logo.png" class="w-100 db" alt="ACM">
+  </div>
+  <div class="pa4 w-50 w-25-ns">
+    <img src="/images/sponsors/cardiff-university-logo.png" class="w-100 db" alt="Cardiff University">
+  </div>
+  <div class="pa4 w-50 w-25-ns">
+    <div class="ba b--black-10 bg-near-white pv4 ph2 tc">
+      <span class="f6 fw6 ttu tracked">Uni of Auckland</span>
+    </div>
+  </div>
+  <div class="pa4 w-50 w-25-ns">
+    <div class="ba b--black-10 bg-near-white pv4 ph2 tc">
+      <span class="f6 fw6 ttu tracked">UNIST</span>
+    </div>
+  </div>
+</div>

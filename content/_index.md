@@ -17,6 +17,7 @@ The **EIFCom workshop** aims to provide a forum for researchers, developers, and
   <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#dates">Important Dates</a>
   <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#program">Program</a>
   <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#organization">Organization</a>
+  <a class="f6 fw6 hover-navy link black-70 ph3 pv2 mb2 dib tracked ttu" href="#sponsors">Sponsors</a>
 </div>
 
 ---
@@ -162,6 +163,25 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 
 ### Steering Committee
 - TBA
+
+---
+
+<h2 id="sponsors">Sponsors</h2>
+
+<div class="flex flex-wrap items-center justify-center mw8 center">
+  <div class="pa3 w-50 w-25-ns">
+    <img src="/images/sponsors/acm_logo.png" class="w-100 db" alt="ACM">
+  </div>
+  <div class="pa3 w-50 w-25-ns">
+    <img src="/images/sponsors/cardiff-university-logo.png" class="w-100 db" alt="Cardiff University">
+  </div>
+  <div class="pa3 w-50 w-25-ns">
+    <img src="/images/sponsors/sydney_logo.jpg" class="w-100 db" alt="University of Sydney">
+  </div>
+  <div class="pa3 w-50 w-25-ns">
+    <img src="/images/sponsors/university_of_melbourne_logo.jpg" class="w-100 db" alt="University of Melbourne">
+  </div>
+</div>
 
 ---
 ### Co-located with [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)

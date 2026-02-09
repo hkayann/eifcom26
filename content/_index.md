@@ -195,10 +195,10 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <img src="/images/sponsors/cardiff-university-logo.png" class="w-100 db" alt="Cardiff University">
   </div>
   <div class="pa4 w-50 w-25-ns">
-    <img src="/images/sponsors/sydney_logo.jpg" class="w-100 db" alt="University of Sydney">
+    <img src="/images/sponsors/Auckland University-02.png" class="w-100 db" alt="University of Auckland">
   </div>
   <div class="pa4 w-50 w-25-ns">
-    <img src="/images/sponsors/university_of_melbourne_logo.jpg" class="w-100 db" alt="University of Melbourne">
+    <img src="/images/sponsors/unist.png" class="w-100 db" alt="UNIST">
   </div>
 </div>
 

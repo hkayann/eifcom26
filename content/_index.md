@@ -28,6 +28,7 @@ The **EIFCom workshop** aims to provide a forum for researchers, developers, and
 We solicit papers that present preliminary research in broad areas of mobile foundation models, including but not limited to:
 
 - **Efficient Architectures:** On-device training and inference, model compression, quantization, and pruning for mobile budgets.
+- **Green FMs:** Uncoventional techiques, frameworks, and hardware architecture to make foundation models more environmental friendly.
 - **Multimodal Systems:** Integration of diverse sensors (LIDAR, camera, IMU, audio) with foundation models.
 - **Interactivity & UX:** Latent-aware response, personalized models, and human-centered AI for mobile devices.
 - **Privacy & Security:** Federated learning, on-device privacy-preserving architectures.
@@ -59,7 +60,7 @@ Submissions can use [this LaTex template](https://www.acm.org/publications/proce
 
 The papers can be submitted at: [https://eifcom26.hotcrp.com/](https://eifcom26.hotcrp.com/)
 
-If you have any questions, please reach out to Nhat (Nick) Pham via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk).
+If you have any questions, please reach out to the organisers via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk), [hong.jia@auckland.ac.nz](mailto:hong.jia@auckland.ac.nz), or [taesik.gong@unist.ac.kr](mailto:taesik.gong@unist.ac.kr).
 
 </div>
 </section>
@@ -170,10 +171,14 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 - TBA
 
 ### Technical Program Committee
-- TBA
+- Nam Bui, University of Colorado Denver
+- Tao Ni, King Abdullah University of Science and Technology
+- Talia Xu, University of Auckland
+- Qiang Yang, University of Cambridge
+- Yu (Yvonne) Wu, Dartmouth College
 
-### Steering Committee
-- TBA
+<!-- ### Steering Committee
+- TBA -->
 
 </div>
 </section>

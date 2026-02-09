@@ -1,4 +1,4 @@
-baseURL = 'https://eifcom2026.netlify.app/'
+baseURL = 'https://hkayann.github.io/eifcom26/'
 languageCode = 'en-us'
 title = 'EIFCOM 2026'
 theme = 'ananke'

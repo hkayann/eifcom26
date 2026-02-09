@@ -60,7 +60,7 @@ Submissions can use [this LaTex template](https://www.acm.org/publications/proce
 
 The papers can be submitted at: [https://eifcom26.hotcrp.com/](https://eifcom26.hotcrp.com/)
 
-If you have any questions, please reach out to Nhat (Nick) Pham via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk).
+If you have any questions, please reach out to the organisers via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk), [hong.jia@auckland.ac.nz](mailto:hong.jia@auckland.ac.nz), or [taesik.gong@unist.ac.kr](mailto:taesik.gong@unist.ac.kr).
 
 </div>
 </section>

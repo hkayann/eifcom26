@@ -196,6 +196,11 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 </div>
 
 ### Technical Program Committee
+- Nam Bui, University of Colorado Denver
+- Tao Ni, King Abdullah University of Science and Technology
+- Talia Xu, University of Auckland
+- Qiang Yang, University of Cambridge
+- Yu (Yvonne) Wu, Dartmouth College
 - Soumyajit Chatterjee, Brave and Visiting Scholar, University of Cambridge | ex Bell Labs
 - Dimitris Spathis, Google Research and University of Cambridge
 

@@ -175,9 +175,9 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     </div>
   </div>
   <div class="pa3 w-100 w-50-l flex items-center">
-    <img src="/images/chairs/inha_lee.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Inha (Ahin) Lee">
+    <img src="/images/chairs/inha_lee.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Inha Lee">
     <div>
-      <h4 class="f5 fw6 mv0">Inha (Ahin) Lee</h4>
+      <h4 class="f5 fw6 mv0">Inha Lee</h4>
       <p class="f6 fw4 mt1 mb0">UNIST, South Korea</p>
     </div>
   </div>
@@ -190,17 +190,12 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <img src="/images/chairs/quicong_hu.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Quicong Hu">
     <div>
       <h4 class="f5 fw6 mv0">Quicong Hu</h4>
-      <p class="f6 fw4 mt1 mb0">Cardiff University, UK</p>
+      <p class="f6 fw4 mt1 mb0">University of Auckland</p>
     </div>
   </div>
 </div>
 
 ### Technical Program Committee
-- Nam Bui, University of Colorado Denver
-- Tao Ni, King Abdullah University of Science and Technology
-- Talia Xu, University of Auckland
-- Qiang Yang, University of Cambridge
-- Yu (Yvonne) Wu, Dartmouth College
 - Soumyajit Chatterjee, Brave and Visiting Scholar, University of Cambridge | ex Bell Labs
 - Dimitris Spathis, Google Research and University of Cambridge
 

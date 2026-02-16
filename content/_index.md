@@ -65,14 +65,33 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 </div>
 </section>
 
-<section id="program" class="bg-white pv5">
+<section id="keynote" class="bg-white pv5">
+<div class="mw8 center ph3">
+
+## Keynote Speaker
+
+<div class="flex flex-wrap items-center mw9 center">
+  <div class="pa3 w-100 flex items-center">
+    <img src="/images/chairs/kayla_jade.jpg" class="br-100 h4 w4 mr4 ba b--black-10 h-auto" alt="Kayla-Jade Butkow">
+    <div>
+      <h3 class="f3 fw6 mv0">Kayla-Jade Butkow</h3>
+      <p class="f5 fw4 mt2 mb0">CTO & Co-founder at <strong>auryx</strong></p>
+      <p class="f6 i fw4 mt1 mb0">Wearables & AI</p>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+
+<section id="program" class="bg-near-white pv5">
 <div class="mw8 center ph3">
 
 ## Workshop Program
 
 *The detailed program will be announced after the notification of acceptance.*
 
-<div class="pa4 br3 bg-near-white mb4">
+<div class="pa4 br3 bg-white mb4">
   <table class="w-100 collapse">
     <tbody class="lh-copy">
       <tr class="bb b--black-10">
@@ -81,7 +100,7 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
       </tr>
       <tr class="bb b--black-10">
         <td class="pv2 fw6">09:15 - 10:15</td>
-        <td class="pv2">Keynote Session</td>
+        <td class="pv2">Keynote Session: <strong>Kayla-Jade Butkow</strong></td>
       </tr>
       <tr class="bb b--black-10">
         <td class="pv2 fw6">10:15 - 10:45</td>
@@ -106,7 +125,7 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 </div>
 </section>
 
-<section id="dates" class="bg-near-white pv5">
+<section id="dates" class="bg-white pv5">
 <div class="mw8 center ph3">
 
 ## Important Dates
@@ -121,7 +140,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 </div>
 </section>
 
-<section id="organization" class="bg-white pv5">
+<section id="organization" class="bg-near-white pv5">
 <div class="mw8 center ph3">
 
 ## Organization
@@ -210,7 +229,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 </div>
 </section>
 
-<section id="sponsors" class="bg-near-white pv5">
+<section id="sponsors" class="bg-white pv5">
 <div class="mw8 center ph3">
 
 ### Co-located with [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)

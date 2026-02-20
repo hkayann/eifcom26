@@ -194,9 +194,9 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     </div>
   </div>
   <div class="pa3 w-100 w-50-l flex items-center">
-    <img src="/images/chairs/inha_lee.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Inha Lee">
+    <img src="/images/chairs/ahin_lee.png" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Ahin Lee">
     <div>
-      <h4 class="f5 fw6 mv0">Inha Lee</h4>
+      <h4 class="f5 fw6 mv0">Ahin Lee</h4>
       <p class="f6 fw4 mt1 mb0">UNIST, South Korea</p>
     </div>
   </div>

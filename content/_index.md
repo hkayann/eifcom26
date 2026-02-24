@@ -28,7 +28,7 @@ The **EIFCom workshop** aims to provide a forum for researchers, developers, and
 We solicit papers that present preliminary research in broad areas of mobile foundation models, including but not limited to:
 
 - **Efficient Architectures:** On-device training and inference, model compression, quantization, and pruning for mobile budgets.
-- **Green FMs:** Uncoventional techiques, frameworks, and hardware architecture to make foundation models more environmental friendly.
+- **Green Foundation Models:** Techiques, frameworks, and hardware architecture to make foundation models more environmental friendly.
 - **Multimodal Systems:** Integration of diverse sensors (LIDAR, camera, IMU, audio) with foundation models.
 - **Interactivity & UX:** Latent-aware response, personalized models, and human-centered AI for mobile devices.
 - **Privacy & Security:** Federated learning, on-device privacy-preserving architectures.
@@ -60,6 +60,10 @@ Submissions can use [this LaTex template](https://www.acm.org/publications/proce
 
 The papers can be submitted at: [https://eifcom26.hotcrp.com/](https://eifcom26.hotcrp.com/)
 
+### Best Paper Award
+
+All accepted papers will be considered for the best paper award. The final decision will be made at the workshop based on paper's technical and presentation merits. 
+
 If you have any questions, please reach out to the organisers via [phamn@cardiff.ac.uk](mailto:phamn@cardiff.ac.uk), [hong.jia@auckland.ac.nz](mailto:hong.jia@auckland.ac.nz), or [taesik.gong@unist.ac.kr](mailto:taesik.gong@unist.ac.kr).
 
 </div>
@@ -68,15 +72,26 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 <section id="keynote" class="bg-white pv5">
 <div class="mw8 center ph3">
 
-## Keynote Speaker
+## Keynote Speakers
+
+<div class="flex flex-wrap items-center mw9 center">
+  <div class="pa3 w-100 flex items-center">
+    <img src="/images/chairs/hongkai.png" class="br-100 h4 w4 mr4 ba b--black-10 h-auto" alt="Hongkai Wen">
+    <div>
+      <h3 class="f3 fw6 mv0">Prof Hongkai Wen</h3>
+      <p class="f5 fw4 mt2 mb0">Professor of Computer Science at <strong>Warwick University</strong></p>
+      <p class="f6 i fw4 mt1 mb0">Prof Wen is a Full Professor at the Department of Computer Science, the University of Warwick, and the Head of the AI/ML Systems (AMS) Division. He is a Fellow of the Alan Turing Institute, the UK’s national institute for data science and AI. At the Turing, he is also an Independent Scientific Advisor for the BridgeAI programme, and a member of the Turing Research Ethics (TREx) team. Previously, he was a Senior Research Scientist at Samsung AI Centre Cambridge, where his team worked on Automated Machine Learning (AutoML) for On-device Intelligence. He did my postdoctoral research with the Cyber-Physical Systems Group in the Department of Computer Science (formerly known as the Computing Laboratory, or Comlab), University of Oxford, and studied Computer Science at Keble College, Oxford.
+    </div>
+  </div>
+</div>
 
 <div class="flex flex-wrap items-center mw9 center">
   <div class="pa3 w-100 flex items-center">
     <img src="/images/chairs/kayla_jade.jpg" class="br-100 h4 w4 mr4 ba b--black-10 h-auto" alt="Kayla-Jade Butkow">
     <div>
-      <h3 class="f3 fw6 mv0">Kayla-Jade Butkow</h3>
+      <h3 class="f3 fw6 mv0">Dr Kayla-Jade Butkow</h3>
       <p class="f5 fw4 mt2 mb0">CTO & Co-founder at <strong>auryx</strong></p>
-      <p class="f6 i fw4 mt1 mb0">Wearables & AI</p>
+      <p class="f6 i fw4 mt1 mb0">Dr Kayla-Jade Butkow is the co-founder and CTO of auryx, where they are turning audible sound into health insights using AI, with earbuds as the first step. Building on her research at the University of Cambridge on earbuds as a health monitoring platform, she has been working to bring this technology to market with auryx. She is driven by the intersection of deep tech and human impact - solving challenging engineering problems with the goal of improving everyday health and wellbeing for patients and users.</p>
     </div>
   </div>
 </div>
@@ -87,7 +102,7 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 <section id="program" class="bg-near-white pv5">
 <div class="mw8 center ph3">
 
-## Workshop Program
+## Tentative Program
 
 *The detailed program will be announced after the notification of acceptance.*
 
@@ -95,28 +110,32 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
   <table class="w-100 collapse">
     <tbody class="lh-copy">
       <tr class="bb b--black-10">
-        <td class="pv2 w-20 fw6">09:00 - 09:15</td>
+        <td class="pv2 w-20 fw6">09:00 - 09:10</td>
         <td class="pv2">Opening Remarks</td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">09:15 - 10:15</td>
-        <td class="pv2">Keynote Session: <strong>Kayla-Jade Butkow</strong></td>
+        <td class="pv2 fw6">09:10 - 10:00</td>
+        <td class="pv2">Keynote Session I: <strong>Prof Hongkai Wen</strong></td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">10:15 - 10:45</td>
-        <td class="pv2">Coffee Break</td>
-      </tr>
-      <tr class="bb b--black-10">
-        <td class="pv2 fw6">10:45 - 12:00</td>
+        <td class="pv2 fw6">10:00 - 10:45</td>
         <td class="pv2">Technical Session I</td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">12:00 - 13:30</td>
-        <td class="pv2">Lunch Break</td>
+        <td class="pv2 fw6">10:45 - 11:00</td>
+        <td class="pv2">Coffee Break</td>
       </tr>
-      <tr>
-        <td class="pv2 fw6">13:30 - TBA</td>
-        <td class="pv2">Afternoon Sessions & Closing</td>
+            <tr class="bb b--black-10">
+        <td class="pv2 fw6">11:00 - 11:45</td>
+        <td class="pv2">Keynote Session II: <strong>Dr Kayla-Jade Butkow</strong></td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">11:45 - 12:30</td>
+        <td class="pv2">Technical Session II</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">12:30 - 12:40</td>
+        <td class="pv2">Best Paper Award and Closing</td>
       </tr>
     </tbody>
   </table>
@@ -135,7 +154,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 - **Paper Submission:** April 3, 2026 <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=EIFCOM+2026+Paper+Submission+Deadline&dates=20260404T115900Z/20260404T120000Z&details=International+Workshop+on+Mobile+Systems+with+Efficient+Foundation+Models+(EIFCOM+2026)&location=Online" target="_blank" class="f7 ml2 link dim br2 ph2 pv1 dib white bg-navy">Add to Calendar</a>
 - **Acceptance Notification:** April 17, 2026
 - **Camera-Ready Submission:** April 24, 2026
-- **Workshop Date:** TBA (Co-located with MobiSys 2026)
+- **Workshop Date:** June 25, 2026
 
 </div>
 </section>
@@ -220,8 +239,11 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 - Talia Xu, University of Auckland
 - Qiang Yang, University of Cambridge
 - Yu (Yvonne) Wu, Dartmouth College
-- Soumyajit Chatterjee, Brave and Visiting Scholar, University of Cambridge | ex Bell Labs
-- Dimitris Spathis, Google Research and University of Cambridge
+- Soumyajit Chatterjee, Brave Software
+- Dimitris Spathis, Google Research
+- Bo Wei, Newcastle University
+- Yan Gao, Flower Labs
+- Lingyan Ruan, University of Melbourne
 
 <!-- ### Steering Committee
 - TBA -->
@@ -233,8 +255,8 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 <div class="mw8 center ph3">
 
 ### Co-located with [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)
-**Location:** TBA  
-**Date:** TBA
+**Location:** William Gates Building, Cambridge University.  
+**Date:** Thursday, June 25, 2026.
 
 <h2 class="mt5">Sponsors</h2>
 

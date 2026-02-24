@@ -28,7 +28,7 @@ The **EIFCom workshop** aims to provide a forum for researchers, developers, and
 We solicit papers that present preliminary research in broad areas of mobile foundation models, including but not limited to:
 
 - **Efficient Architectures:** On-device training and inference, model compression, quantization, and pruning for mobile budgets.
-- **Green Foundation Models:** Techiques, frameworks, and hardware architecture to make foundation models more environmental friendly.
+- **Green Foundation Models:** Techniques, frameworks, and hardware architecture to make foundation models more environmentally friendly.
 - **Multimodal Systems:** Integration of diverse sensors (LIDAR, camera, IMU, audio) with foundation models.
 - **Interactivity & UX:** Latent-aware response, personalized models, and human-centered AI for mobile devices.
 - **Privacy & Security:** Federated learning, on-device privacy-preserving architectures.

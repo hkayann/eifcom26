@@ -209,7 +209,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
     <img src="/images/chairs/le_fang.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Le Fang">
     <div>
       <h4 class="f5 fw6 mv0">Le Fang</h4>
-      <p class="f6 fw4 mt1 mb0">University of Auckland, NZ</p>
+      <p class="f6 fw4 mt1 mb0">University of Melbourne, AU</p>
     </div>
   </div>
   <div class="pa3 w-100 w-50-l flex items-center">
@@ -225,9 +225,9 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 
 <div class="flex flex-wrap mw9 center">
   <div class="pa3 w-100 w-50-l flex items-center">
-    <img src="/images/chairs/quicong_hu.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Quicong Hu">
+    <img src="/images/chairs/quicong_hu.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Qicong Hu">
     <div>
-      <h4 class="f5 fw6 mv0">Quicong Hu</h4>
+      <h4 class="f5 fw6 mv0">Qicong Hu</h4>
       <p class="f6 fw4 mt1 mb0">University of Auckland</p>
     </div>
   </div>

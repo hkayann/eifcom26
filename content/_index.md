@@ -1,4 +1,4 @@
-﻿---
+---
 title: "EIFCOM 2026"
 date: 2026-02-04
 draft: false
@@ -153,7 +153,7 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
 
 - **Paper Submission:** ~~April 3, 2026~~ **April 17, 2026** <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=EIFCOM+2026+Paper+Submission+Deadline&dates=20260418T115900Z/20260418T120000Z&details=International+Workshop+on+Mobile+Systems+with+Efficient+Foundation+Models+(EIFCOM+2026)&location=Online" target="_blank" class="f7 ml2 link dim br2 ph2 pv1 dib white bg-navy">Add to Calendar</a>
 - **Acceptance Notification:** ~~April 17, 2026~~ **April 24, 2026**
-- **Camera-Ready Submission:** ~~April 24, 2026~~ **April 29, 2026**
+- **Camera-Ready Submission:** ~~April 24, 2026~~ **April 30, 2026**
 - **Workshop Date:** June 25, 2026
 
 </div>

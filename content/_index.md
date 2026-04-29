@@ -144,6 +144,47 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 </div>
 </section>
 
+<section id="accepted-papers" class="bg-white pv5">
+<div class="mw8 center ph3">
+
+## Accepted Papers
+
+<div class="pa4 br3 bg-near-white mb4 shadow-1">
+  <ol class="f5 lh-copy pl3">
+    <li class="mb3">
+      <strong>Toward Living Memory Systems for LLMs on the Edge</strong><br>
+      Myles Foley (Devotion AI Labs, The Alan Turing Institute); Valentin Radu (Devotion AI Labs, University of Sheffield); Massimo Pegoraro, Maryam Vahdat Pour, Frank Faricy (Devotion AI Labs); Mark Girolami (Devotion AI Labs, University of Cambridge)
+    </li>
+    <li class="mb3">
+      <strong>EchoVision: Hybrid NPU-CPU Deployment of EfficientViT-SAM and YOLO for Real-Time Assistive Navigation</strong><br>
+      Su Ho Lim (University of Colorado Denver); Artemis Shaw (University of Colorado Boulder); Huy Dinh, Nam Bui (University of Colorado Denver)
+    </li>
+    <li class="mb3">
+      <strong>Multi-Task Mental Health Detection with Large Language Models under Class Imbalance</strong><br>
+      Xiangyuan Xue (University of Auckland); Tianyi Zhang (University of Sydney); Vassilis Kostakos, Ting Dang (University of Melbourne); Hong Jia (University of Auckland)
+    </li>
+    <li class="mb3">
+      <strong>Distributionally Robust Federated Optimization Against Distribution Shifts and Adversarial Data Corruption</strong><br>
+      Olusola Odeyomi, Ifeoluwa Olowofeso (North Carolina Agricultural and Technical State University)
+    </li>
+    <li class="mb3">
+      <strong>PERSE: A PERsonalised SEizure prediction system based on large-scale EEG foundation models</strong><br>
+      Loic Lorente Lemoine, Kha Huynh, Jonas Beuchert (Cardiff University); Deepu John (University College Dublin); Omer Rana, Nhat Pham (Cardiff University)
+    </li>
+    <li class="mb3">
+      <strong>CrossBench: Unified Evaluation of LLM Memory Systems Across Conversational and Coding Tasks</strong><br>
+      Valentin Radu, Myles Foley, Frank Faricy (Devotion AI Labs); Mark Girolami (Devotion AI Labs, University of Cambridge)
+    </li>
+    <li>
+      <strong>EPnG: Adaptive Expert Prune-and-Grow for Parameter-Efficient MoE Fine-tuning</strong><br>
+      Ahin Lee, Sehyun Yun, Taesik Gong (UNIST)
+    </li>
+  </ol>
+</div>
+
+</div>
+</section>
+
 <section id="dates" class="bg-white pv5">
 <div class="mw8 center ph3">
 

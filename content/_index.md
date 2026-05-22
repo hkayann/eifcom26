@@ -1,4 +1,4 @@
----
+﻿---
 title: "EIFCOM 2026"
 date: 2026-02-04
 draft: false
@@ -76,17 +76,6 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 
 <div class="flex flex-wrap items-center mw9 center">
   <div class="pa3 w-100 flex items-center">
-    <img src="/images/chairs/hongkai.png" class="br-100 h4 w4 mr4 ba b--black-10 h-auto" alt="Hongkai Wen">
-    <div>
-      <h3 class="f3 fw6 mv0">Prof Hongkai Wen</h3>
-      <p class="f5 fw4 mt2 mb0">Professor of Computer Science at <strong>Warwick University</strong></p>
-      <p class="f6 i fw4 mt1 mb0">Prof Wen is a Full Professor at the Department of Computer Science, the University of Warwick, and the Head of the AI/ML Systems (AMS) Division. He is a Fellow of the Alan Turing Institute, the UK’s national institute for data science and AI. At the Turing, he is also an Independent Scientific Advisor for the BridgeAI programme, and a member of the Turing Research Ethics (TREx) team. Previously, he was a Senior Research Scientist at Samsung AI Centre Cambridge, where his team worked on Automated Machine Learning (AutoML) for On-device Intelligence. He did my postdoctoral research with the Cyber-Physical Systems Group in the Department of Computer Science (formerly known as the Computing Laboratory, or Comlab), University of Oxford, and studied Computer Science at Keble College, Oxford.
-    </div>
-  </div>
-</div>
-
-<div class="flex flex-wrap items-center mw9 center">
-  <div class="pa3 w-100 flex items-center">
     <img src="/images/chairs/kayla_jade.jpg" class="br-100 h4 w4 mr4 ba b--black-10 h-auto" alt="Kayla-Jade Butkow">
     <div>
       <h3 class="f3 fw6 mv0">Dr Kayla-Jade Butkow</h3>
@@ -102,40 +91,64 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
 <section id="program" class="bg-near-white pv5">
 <div class="mw8 center ph3">
 
-## Tentative Program
-
-*The detailed program will be announced after the notification of acceptance.*
+## Program
 
 <div class="pa4 br3 bg-white mb4">
   <table class="w-100 collapse">
     <tbody class="lh-copy">
       <tr class="bb b--black-10">
-        <td class="pv2 w-20 fw6">09:00 - 09:10</td>
+        <td class="pv2 w-20 fw6">09:00 – 09:05</td>
         <td class="pv2">Opening Remarks</td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">09:10 - 10:00</td>
-        <td class="pv2">Keynote Session I: <strong>Prof Hongkai Wen</strong></td>
+        <td class="pv2 fw6">09:05 – 09:45</td>
+        <td class="pv2">Keynote: <strong>Dr Kayla-Jade Butkow</strong></td>
+      </tr>
+      <tr class="bb b--black-10 bg-near-white">
+        <td class="pv2 fw6" colspan="2"><em>Technical Session I</em></td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">10:00 - 10:45</td>
-        <td class="pv2">Technical Session I</td>
+        <td class="pv2 fw6">09:45 – 10:00</td>
+        <td class="pv2">EPnG: Adaptive Expert Prune-and-Grow for Parameter-Efficient MoE Fine-tuning</td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">10:45 - 11:00</td>
+        <td class="pv2 fw6">10:00 – 10:15</td>
+        <td class="pv2">Toward Living Memory Systems for LLMs on the Edge</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">10:15 – 10:30</td>
+        <td class="pv2">PERSE: A PERsonalised SEizure prediction system based on large-scale EEG foundation models</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">10:30 – 11:00</td>
         <td class="pv2">Coffee Break</td>
       </tr>
-            <tr class="bb b--black-10">
-        <td class="pv2 fw6">11:00 - 11:45</td>
-        <td class="pv2">Keynote Session II: <strong>Dr Kayla-Jade Butkow</strong></td>
+      <tr class="bb b--black-10 bg-near-white">
+        <td class="pv2 fw6" colspan="2"><em>Technical Session II</em></td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">11:45 - 12:30</td>
-        <td class="pv2">Technical Session II</td>
+        <td class="pv2 fw6">11:00 – 11:15</td>
+        <td class="pv2">Multi-Task Mental Health Detection with Large Language Models under Class Imbalance</td>
       </tr>
       <tr class="bb b--black-10">
-        <td class="pv2 fw6">12:30 - 12:40</td>
+        <td class="pv2 fw6">11:15 – 11:30</td>
+        <td class="pv2">EchoVision: Hybrid NPU-CPU Deployment of EfficientViT-SAM and YOLO for Real-Time Assistive Navigation</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">11:30 – 11:45</td>
+        <td class="pv2">Distributionally Robust Federated Optimization Against Distribution Shifts and Adversarial Data Corruption</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">11:45 – 12:00</td>
+        <td class="pv2">CrossBench: Unified Evaluation of LLM Memory Systems Across Conversational and Coding Tasks</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">12:00 – 12:05</td>
         <td class="pv2">Best Paper Award and Closing</td>
+      </tr>
+      <tr class="bb b--black-10">
+        <td class="pv2 fw6">12:05 – 13:00</td>
+        <td class="pv2">Lunch Break</td>
       </tr>
     </tbody>
   </table>

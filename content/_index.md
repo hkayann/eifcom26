@@ -79,9 +79,8 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
     <img src="/images/chairs/kayla_jade.jpg" class="br-100 h4 w4 mr4 ba b--black-10 h-auto" alt="Kayla-Jade Butkow">
     <div>
       <h3 class="f3 fw6 mv0">Dr Kayla-Jade Butkow</h3>
-	<p class="f5 fw4 mt2 mb0">CTO & Co-founder at <strong>auryx</strong></p>
+      <p class="f5 fw4 mt2 mb0">CTO & Co-founder at <strong>auryx</strong></p>
       <p class="f6 i fw4 mt1 mb0">Dr Kayla-Jade Butkow is the co-founder and CTO of auryx, where they are turning audible sound into health insights using AI, with earbuds as the first step. Building on her research at the University of Cambridge on earbuds as a health monitoring platform, she has been working to bring this technology to market with auryx. She is driven by the intersection of deep tech and human impact - solving challenging engineering problems with the goal of improving everyday health and wellbeing for patients and users.</p>
-
       <p class="f5 fw4 mt2 mb0"><strong>From earables to auryx</strong></p>
       <p class="f6 i fw4 mt1 mb0">Wearable health monitoring has historically meant adding new sensors to devices. My PhD took a different route, using microphones already present in earbuds to measure physiology. This talk traces the path from that research, estimating vital signs from in-ear audio, to founding auryx, a company building a foundation model that turns sound into health insights. I will share how the science became a startup, the mental shift needed to switch from academic research to startup productisation, and the open problems that still make this hard.</p>
     </div>
@@ -112,7 +111,7 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
       </tr>
       <tr class="bb b--black-10">
         <td class="pv2 fw6">09:45 – 10:00</td>
-        <td class="pv2">EPnG: Adaptive Expert Prune-and-Grow for Parameter-Efficient MoE Fine-tuning <strong>Best paper candidate</strong> </td>
+        <td class="pv2">EPnG: Adaptive Expert Prune-and-Grow for Parameter-Efficient MoE Fine-tuning <strong>[Best paper candidate]</strong> </td>
       </tr>
       <tr class="bb b--black-10">
         <td class="pv2 fw6">10:00 – 10:15</td>
@@ -131,7 +130,7 @@ If you have any questions, please reach out to the organisers via [phamn@cardiff
       </tr>
       <tr class="bb b--black-10">
         <td class="pv2 fw6">11:00 – 11:15</td>
-        <td class="pv2">CrossBench: Unified Evaluation of LLM Memory Systems Across Conversational and Coding Tasks <strong>Best paper candidate</strong> </td>
+        <td class="pv2">CrossBench: Unified Evaluation of LLM Memory Systems Across Conversational and Coding Tasks <strong>[Best paper candidate]</strong> </td>
       </tr>
       <tr class="bb b--black-10">
         <td class="pv2 fw6">11:15 – 11:30</td>

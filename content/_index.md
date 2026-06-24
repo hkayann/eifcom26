@@ -256,16 +256,6 @@ All deadlines are 23:59 AoE (Anywhere on Earth).
       <p class="f6 fw4 mt1 mb0">Cardiff University, UK</p>
     </div>
   </div>
-</div>
-
-<div class="flex flex-wrap mw9 center">
-  <div class="pa3 w-100 w-50-l flex items-center">
-    <img src="/images/chairs/hakan_kayan.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Hakan Kayan">
-    <div>
-      <h4 class="f5 fw6 mv0">Hakan Kayan</h4>
-      <p class="f6 fw4 mt1 mb0">Cardiff University, UK</p>
-    </div>
-  </div>
   <div class="pa3 w-100 w-50-l flex items-center">
     <img src="/images/chairs/loic.jpg" class="br-100 h3 w3 mr3 ba b--black-05 pa1 h-auto" alt="Loic Lorente Lemoine">
     <div>
